@@ -4,7 +4,7 @@
 
 4.5 years at Capgemini, promoted four times from Analyst to Consultant. I own production reliability for an enterprise platform processing 10M+ transactions a year against a 99.5% availability target — 24x7 on-call, P1/P2 major incident command, and the SLO and alerting model that catches failures before they become outages.
 
-Alongside that I build and run [Jobingen](https://ai.jobingen.com), a live AI platform on AWS where the infrastructure work is entirely hands-on: the estate codified in Terraform on remote state with locking, keyless CI/CD through OIDC federation, deploys that are smoke-test gated with automatic rollback, and backups that are actually restore-tested.
+Alongside that I build and run a live AI platform on AWS where the infrastructure work is entirely hands-on: the estate codified in Terraform on remote state with locking, keyless CI/CD through OIDC federation, deploys that are smoke-test gated with automatic rollback, and backups that are actually restore-tested.
 
 Most interested in reliability problems where the fix is permanent rather than procedural.
 
@@ -46,6 +46,6 @@ AWS Certified Solutions Architect – Associate &nbsp;·&nbsp; Microsoft Certifi
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/priyankpandey-devops) &nbsp;·&nbsp; [ai.jobingen.com](https://ai.jobingen.com) &nbsp;·&nbsp; priyankpandey02@gmail.com
+[LinkedIn](https://linkedin.com/in/priyankpandey-devops) &nbsp;·&nbsp; priyankpandey02@gmail.com
 
-Open to Site Reliability, DevOps, Platform and Cloud Infrastructure roles.
+# Open to Site Reliability, DevOps, Platform and Cloud Infrastructure roles.
