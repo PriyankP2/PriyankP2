@@ -2,7 +2,7 @@
 
 **Site Reliability / DevOps Engineer.** I keep production systems available and I build the infrastructure underneath them.
 
-4.5 years at Capgemini, promoted four times from Analyst to Consultant. I own production reliability for an enterprise platform processing 10M+ transactions a year against a 99.5% availability target — 24x7 on-call, P1/P2 major incident command, and the SLO and alerting model that catches failures before they become outages.
+Nearly 5 years at Capgemini, promoted four times from Analyst to Consultant. I own production reliability for an enterprise platform processing 10M+ transactions a year against a 99.5% availability target — 24x7 on-call, P1/P2 major incident command, and the SLO and alerting model that catches failures before they become outages.
 
 Alongside that I build and run a live AI platform on AWS where the infrastructure work is entirely hands-on: the estate codified in Terraform on remote state with locking, keyless CI/CD through OIDC federation, deploys that are smoke-test gated with automatic rollback, and backups that are actually restore-tested.
 
